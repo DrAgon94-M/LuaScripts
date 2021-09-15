@@ -34,6 +34,10 @@ function test2()
     local t = {
         name = "DrAgon94",
         age = 19,
+        jobInfo = {
+            name = "programmer",
+            salary = 4000,
+        }
     }
 
     --测试表作为键的打印情况
